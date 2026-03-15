@@ -1,3 +1,3 @@
-# Ledgrify
+# MoneyFin
 
-Ledgrify is a Money Manager
+MoneyFin is a open-source money manager.
