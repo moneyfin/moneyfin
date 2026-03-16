@@ -1,5 +1,4 @@
-pip install asyncpg
-pip install fastapi
-pip install uvicorn
-pip install pydantic
-pip install jinja2
+asgiref==3.11.1
+Django==5.0
+djangorestframework==3.16.1
+sqlparse==0.5.5
