@@ -33,11 +33,11 @@ To let the team know which issues are important, upvote by clicking the [+😊] 
 
 ## Contributing Fixes/Features
 
-Please comment on our ["Would you like to contribute to moneyfin?"](https://github.com/microsoft/moneyfin/issues/28769) thread to let us know you're interested in working on something before you start. This helps avoid multiple people unexpectedly working on the same thing and ensures everyone is clear on what should be done. It's less work for everyone to establish this up front.
+Please comment on our ["Would you like to contribute to moneyfin?"](https://github.com/moneyfin/moneyfin/issues/28769) thread to let us know you're interested in working on something before you start. This helps avoid multiple people unexpectedly working on the same thing and ensures everyone is clear on what should be done. It's less work for everyone to establish this up front.
 
 ### Localization Issues
 
-For localization issues, please file an issue to notify our internal localization team, as community PRs for localization aren't accepted. Localization is handled exclusively by the internal Microsoft team.
+For localization issues, please file an issue to notify our internal localization team, as community PRs for localization aren't accepted. Localization is handled exclusively by the internal Moneyfin team.
 
 ### To Spec or Not to Spec
 
@@ -47,13 +47,13 @@ Once a team member has agreed with your approach, proceed to the "Development" s
 
 ### Help Wanted
 
-Once the team has approved an issue/spec approach, development can proceed. If no developers are immediately available, the spec may be parked and labeled "Help Wanted," ready for a developer to get started. For development opportunities, visit [Issues labeled Help Wanted](https://github.com/microsoft/moneyfin/labels/Help%20Wanted).
+Once the team has approved an issue/spec approach, development can proceed. If no developers are immediately available, the spec may be parked and labeled "Help Wanted," ready for a developer to get started. For development opportunities, visit [Issues labeled Help Wanted](https://github.com/moneyfin/moneyfin/labels/Help%20Wanted).
 
 ---
 
 ## Development
 
-Follow the [development guidelines](https://github.com/microsoft/moneyfin/blob/main/doc/devdocs/readme.md).
+Follow the [development guidelines](https://github.com/moneyfin/moneyfin/blob/main/doc/devdocs/readme.md).
 
 ### Naming Features and Functionality
 
@@ -63,7 +63,7 @@ Names should be descriptive and straightforward, clearly reflecting functionalit
 
 Be an active community member! Make helpful contributions by filing bugs, offering suggestions, developing fixes and features, conducting code reviews, and updating documentation. 
 
-When the time comes, Microsoft will reach out to you about becoming a formal team member. Just make sure they have a way to contact you. 😊
+When the time comes, Moneyfin will reach out to you about becoming a formal team member. Just make sure they have a way to contact you. 😊
 
 ---
 

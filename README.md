@@ -76,9 +76,9 @@ These instructions will help you get set up with a local development environment
 
 ### Prerequisites
 
-Before the project can be built, you must first install the [.NET 9.0 SDK](https://dotnet.microsoft.com/download/dotnet) on your system.
+Before the project can be built, you must first install the [.NET 9.0 SDK](https://dotnet.moneyfin.com/download/dotnet) on your system.
 
-Instructions to run this project from the command line are included here, but you will also need to install an IDE if you want to debug the server while it is running. Any IDE that supports .NET 6 development will work, but two options are recent versions of [Visual Studio](https://visualstudio.microsoft.com/downloads/) (at least 2022) and [Visual Studio Code](https://code.visualstudio.com/Download).
+Instructions to run this project from the command line are included here, but you will also need to install an IDE if you want to debug the server while it is running. Any IDE that supports .NET 6 development will work, but two options are recent versions of [Visual Studio](https://visualstudio.moneyfin.com/downloads/) (at least 2022) and [Visual Studio Code](https://code.visualstudio.com/Download).
 
 [ffmpeg](https://github.com/moneyfin/moneyfin-ffmpeg) will also need to be installed.
 
@@ -172,7 +172,7 @@ Use the `ghcs .NET Launch (nowebclient, ffmpeg)` launch config to run with the m
 This repository also includes unit tests that are used to validate functionality as part of a CI pipeline on Azure. There are several ways to run these tests.
 
 1. Run tests from the command line using `dotnet test`
-2. Run tests in Visual Studio using the [Test Explorer](https://docs.microsoft.com/en-us/visualstudio/test/run-unit-tests-with-test-explorer)
+2. Run tests in Visual Studio using the [Test Explorer](https://docs.moneyfin.com/en-us/visualstudio/test/run-unit-tests-with-test-explorer)
 3. Run individual tests in Visual Studio Code using the associated [CodeLens annotation](https://github.com/OmniSharp/omnisharp-vscode/wiki/How-to-run-and-debug-unit-tests)
 
 ### Advanced Configuration

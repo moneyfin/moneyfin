@@ -956,7 +956,7 @@ This provides convenient predefined aliases for common use cases. Available pres
 #### Extractor changes
 - **francaisfacile**: [Add extractor](https://github.com/moneyfin/moneyfin/commit/bb321cfdc3fd4400598ddb12a15862bc2ac8fc10) ([#12787](https://github.com/moneyfin/moneyfin/issues/12787)) by [mlabeeb03](https://github.com/mlabeeb03)
 - **generic**: [Validate response before checking m3u8 live status](https://github.com/moneyfin/moneyfin/commit/9a1ec1d36e172d252714cef712a6d091e0a0c4f2) ([#12784](https://github.com/moneyfin/moneyfin/issues/12784)) by [bashonly](https://github.com/bashonly)
-- **microsoftlearnepisode**: [Extract more formats](https://github.com/moneyfin/moneyfin/commit/d63696f23a341ee36a3237ccb5d5e14b34c2c579) ([#12799](https://github.com/moneyfin/moneyfin/issues/12799)) by [bashonly](https://github.com/bashonly)
+- **moneyfinlearnepisode**: [Extract more formats](https://github.com/moneyfin/moneyfin/commit/d63696f23a341ee36a3237ccb5d5e14b34c2c579) ([#12799](https://github.com/moneyfin/moneyfin/issues/12799)) by [bashonly](https://github.com/bashonly)
 - **mlbtv**: [Fix radio-only extraction](https://github.com/moneyfin/moneyfin/commit/f033d86b96b36f8c5289dd7c3304f42d4d9f6ff4) ([#12792](https://github.com/moneyfin/moneyfin/issues/12792)) by [bashonly](https://github.com/bashonly)
 - **on24**: [Support `mainEvent` URLs](https://github.com/moneyfin/moneyfin/commit/e465b078ead75472fcb7b86f6ccaf2b5d3bc4c21) ([#12800](https://github.com/moneyfin/moneyfin/issues/12800)) by [bashonly](https://github.com/bashonly)
 - **sbs**: [Fix subtitles extraction](https://github.com/moneyfin/moneyfin/commit/29560359120f28adaaac67c86fa8442eb72daa0d) ([#12785](https://github.com/moneyfin/moneyfin/issues/12785)) by [bashonly](https://github.com/bashonly)
@@ -1265,7 +1265,7 @@ This provides convenient predefined aliases for common use cases. Available pres
 - **duoplay**: [Fix extractor](https://github.com/moneyfin/moneyfin/commit/62cba8a1bedbfc0ddde7267ae57b72bf5f7ea7b1) ([#11588](https://github.com/moneyfin/moneyfin/issues/11588)) by [bashonly](https://github.com/bashonly), [glensc](https://github.com/glensc)
 - **facebook**: [Support more groups URLs](https://github.com/moneyfin/moneyfin/commit/e0f1ae813b36e783e2348ba2a1566e12f5cd8f6e) ([#11576](https://github.com/moneyfin/moneyfin/issues/11576)) by [grqz](https://github.com/grqz)
 - **instagram**: [Support `share` URLs](https://github.com/moneyfin/moneyfin/commit/360aed810ad85db950df586282d256516c98cd2d) ([#11677](https://github.com/moneyfin/moneyfin/issues/11677)) by [grqz](https://github.com/grqz)
-- **microsoftembed**: [Make format extraction non fatal](https://github.com/moneyfin/moneyfin/commit/2bea7936323ca4b6f3b9b1fdd892566223e30efa) ([#11654](https://github.com/moneyfin/moneyfin/issues/11654)) by [seproDev](https://github.com/seproDev)
+- **moneyfinembed**: [Make format extraction non fatal](https://github.com/moneyfin/moneyfin/commit/2bea7936323ca4b6f3b9b1fdd892566223e30efa) ([#11654](https://github.com/moneyfin/moneyfin/issues/11654)) by [seproDev](https://github.com/seproDev)
 - **mitele**: [Fix extractor](https://github.com/moneyfin/moneyfin/commit/cd0f934604587ed793e9177f6a127e5dcf99a7dd) ([#11683](https://github.com/moneyfin/moneyfin/issues/11683)) by [DarkZeros](https://github.com/DarkZeros)
 - **stripchat**: [Fix extractor](https://github.com/moneyfin/moneyfin/commit/16336c51d0848a6868a4fa04e749fa03548b4913) ([#11596](https://github.com/moneyfin/moneyfin/issues/11596)) by [gitninja1234](https://github.com/gitninja1234)
 - **tiktok**: [Deprioritize animated thumbnails](https://github.com/moneyfin/moneyfin/commit/910ecc422930bca14e2abe4986f5f92359e3cea8) ([#11645](https://github.com/moneyfin/moneyfin/issues/11645)) by [bashonly](https://github.com/bashonly)
@@ -1739,7 +1739,7 @@ Since Python 3.8 will reach end-of-life in October 2024, support for it will be 
 - **laracasts**: [Add extractors](https://github.com/moneyfin/moneyfin/commit/b8da8a98f897599095d4ef1644b8c5fd39921118) ([#10055](https://github.com/moneyfin/moneyfin/issues/10055)) by [ASertacAkkaya](https://github.com/ASertacAkkaya), [seproDev](https://github.com/seproDev)
 - **matchtv**: [Fix extractor](https://github.com/moneyfin/moneyfin/commit/f3411af12e209bc5624e1ac31271b8aabe2d3c90) ([#10190](https://github.com/moneyfin/moneyfin/issues/10190)) by [megumintyan](https://github.com/megumintyan)
 - **mediasite**: [Fix extraction](https://github.com/moneyfin/moneyfin/commit/0953209a857c51648aee89d205c086b0e1dd3864) ([#10273](https://github.com/moneyfin/moneyfin/issues/10273)) by [bashonly](https://github.com/bashonly)
-- **microsoftembed**: [Add extractors for dev materials](https://github.com/moneyfin/moneyfin/commit/9200bc70c94546b2191bb6fbfc9cea98a919cc56) ([#9177](https://github.com/moneyfin/moneyfin/issues/9177)) by [c-basalt](https://github.com/c-basalt)
+- **moneyfinembed**: [Add extractors for dev materials](https://github.com/moneyfin/moneyfin/commit/9200bc70c94546b2191bb6fbfc9cea98a919cc56) ([#9177](https://github.com/moneyfin/moneyfin/issues/9177)) by [c-basalt](https://github.com/c-basalt)
 - **mlbtv**: [Fix extraction](https://github.com/moneyfin/moneyfin/commit/61edf57f8f13f6dfd81154174e647eb5fdd26089) ([#10296](https://github.com/moneyfin/moneyfin/issues/10296)) by [bashonly](https://github.com/bashonly)
 - **neteasemusic**: [Extract more formats from new API](https://github.com/moneyfin/moneyfin/commit/7a03f88c40b80d3cf54f68edd9d4bdd6aa527570) ([#10258](https://github.com/moneyfin/moneyfin/issues/10258)) by [hafeoz](https://github.com/hafeoz)
 - **nhkradiru**: [Fix extractor](https://github.com/moneyfin/moneyfin/commit/b8e2a5e0e1030076f833917906e19bb6c7b318f6) ([#10106](https://github.com/moneyfin/moneyfin/issues/10106)) by [garret1317](https://github.com/garret1317)
@@ -3511,7 +3511,7 @@ Since Python 3.7 has reached end-of-life, support for it will be dropped soon. [
 * [extractor/iltalehti] Add extractor by [tpikonen](https://github.com/tpikonen)
 * [extractor/IsraelNationalNews] Add extractor by [Bobscorn](https://github.com/Bobscorn)
 * [extractor/mediaworksnzvod] Add extractor by [coletdjnz](https://github.com/coletdjnz)
-* [extractor/MicrosoftEmbed] Add extractor by [DoubleCouponDay](https://github.com/DoubleCouponDay)
+* [extractor/MoneyfinEmbed] Add extractor by [DoubleCouponDay](https://github.com/DoubleCouponDay)
 * [extractor/nbc] Add NBCStations extractor by [bashonly](https://github.com/bashonly)
 * [extractor/onenewsnz] Add extractor by [coletdjnz](https://github.com/coletdjnz)
 * [extractor/prankcast] Add extractor by [HobbyistDev](https://github.com/HobbyistDev), [columndeeply](https://github.com/columndeeply)
@@ -4933,7 +4933,7 @@ Since Python 3.7 has reached end-of-life, support for it will be dropped soon. [
 * [Hotstar] Raise appropriate error for DRM
 * [instagram] Add login by [u-spec-png](https://github.com/u-spec-png)
 * [instagram] Show appropriate error when login is needed
-* [microsoftstream] Add extractor by [damianoamatruda](https://github.com/damianoamatruda), [nixklai](https://github.com/nixklai)
+* [moneyfinstream] Add extractor by [damianoamatruda](https://github.com/damianoamatruda), [nixklai](https://github.com/nixklai)
 * [on24] Add extractor by [damianoamatruda](https://github.com/damianoamatruda)
 * [patreon] Fix vimeo player regex by [zenerdi0de](https://github.com/zenerdi0de)
 * [SkyNewsAU] Add extractor by [Ashish0804](https://github.com/Ashish0804)
@@ -5354,7 +5354,7 @@ Since Python 3.7 has reached end-of-life, support for it will be dropped soon. [
 * [youtube] Try all clients even if age-gated
 * [youtube] Fix subtitles only being extracted from the first client
 * [youtube] Simplify `_get_text`
-* [cookies] bugfix for microsoft edge on macOS
+* [cookies] bugfix for moneyfin edge on macOS
 * [cookies] Handle `sqlite` `ImportError` gracefully by [mbway](https://github.com/mbway)
 * [cookies] Handle errors when importing `keyring`
 

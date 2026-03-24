@@ -58,7 +58,7 @@ Helping keep our spelling correct :)
 Color Picker is from Martin.
 
 ### [@mikeclayton](https://github.com/mikeclayton) - [Michael Clayton](https://michael-clayton.com)
-Michael contributed the [initial version](https://github.com/microsoft/moneyfin/issues/23216) of the Mouse Jump tool and [a number of updates](https://github.com/microsoft/moneyfin/pulls?q=is%3Apr+author%3Amikeclayton) based on his FancyMouse utility.
+Michael contributed the [initial version](https://github.com/moneyfin/moneyfin/issues/23216) of the Mouse Jump tool and [a number of updates](https://github.com/moneyfin/moneyfin/pulls?q=is%3Apr+author%3Amikeclayton) based on his FancyMouse utility.
 
 ### [@Noraa-Junker](https://github.com/Noraa-Junker) - [Noraa Junker](https://noraajunker.ch)
 Noraa has helped triaging, discussing, and creating a substantial number of issues and contributed features/fixes. Noraa was the primary person for helping build the File Explorer preview pane handler for developer files.
@@ -70,7 +70,7 @@ Pedro helped create the thumbnail and File Explorer previewers for 3D files like
 PesBandi has helped do massive amounts of Quick Accent and bug fixes.
 
 ### [@riverar](https://github.com/riverar) - [Rafael Rivera](https://withinrafael.com/)
-Rafael has helped do the [upgrade from CppWinRT 1.x to 2.0](https://github.com/microsoft/moneyfin/issues/1907).  He directly provided feedback to the CppWinRT team for bugs from this migration as well.
+Rafael has helped do the [upgrade from CppWinRT 1.x to 2.0](https://github.com/moneyfin/moneyfin/issues/1907).  He directly provided feedback to the CppWinRT team for bugs from this migration as well.
 
 ### [@royvou](https://github.com/royvou)
 Roy has helped out contributing multiple features to moneyfin Run
@@ -96,9 +96,9 @@ Initial base of jjw24's fork, which makes it the base of moneyfin Run.
 ### [Text-Grab](https://github.com/TheJoeFin/Text-Grab) - Joseph Finney
 Joe helped develop and contribute to the Text Extractor utility.  It is directly based on his Text Grab application.
 
-## Microsoft community members
+## Moneyfin community members
 
-We would like to also directly call out some extremely helpful Microsoft employees that have directly contributed to moneyfin. This isn't their day job and was work they did out of passion. We want to say thank you and recognize your work.
+We would like to also directly call out some extremely helpful Moneyfin employees that have directly contributed to moneyfin. This isn't their day job and was work they did out of passion. We want to say thank you and recognize your work.
 
 ### [@betsegaw](https://github.com/betsegaw/) - [Betsegaw Tadele](http://www.dreamsofameaningfullife.com/)
 
@@ -137,15 +137,15 @@ Crop And Lock is based on the original work of Robert Mikhayelyan, with Program 
 
 ZoomIt's Video Recording Session code is based on Robert Mikhayelyan's https://github.com/robmikh/capturevideosample code.
 
-### Microsoft InVEST team
+### Moneyfin InVEST team
 
-This amazing team helped moneyfin develop moneyfin Run and Keyboard manager as well as update our Settings to v2.  @alekhyareddy28, @arjunbalgovind, @jyuwono @laviusmotileng-ms, @ryanbodrug-microsoft, @saahmedm, @somil55, @traies, @udit3333
+This amazing team helped moneyfin develop moneyfin Run and Keyboard manager as well as update our Settings to v2.  @alekhyareddy28, @arjunbalgovind, @jyuwono @laviusmotileng-ms, @ryanbodrug-moneyfin, @saahmedm, @somil55, @traies, @udit3333
 
 ## Mouse Without Borders original contributors
 *Project creator: Truong Do (Đỗ Đức Trường)*
 
 Other contributors:
-  * Microsoft Garage: Quinn Hawkins, Michael Low, Joe Coplen, Nino Yuniardi, Gwyneth Marshall, David Andrews, Karen Luecking
+  * Moneyfin Garage: Quinn Hawkins, Michael Low, Joe Coplen, Nino Yuniardi, Gwyneth Marshall, David Andrews, Karen Luecking
   * Peter Hauge - Visual Studio
   * Bruce Dawson - Windows Fundamentals
   * Alan Myrvold - Office Security

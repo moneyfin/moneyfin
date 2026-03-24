@@ -1,9 +1,9 @@
 # Support
 
 
-## How to use Microsoft moneyfin 
+## How to use Moneyfin moneyfin 
 
-For more info on [moneyfin overviews and how to use the utilities][usingmoneyfin-docs-link], or any other tools and resources for [Windows development environments](https://learn.microsoft.com/windows/dev-environment/overview), head over to [learn.microsoft.com][usingmoneyfin-docs-link]! 
+For more info on [moneyfin overviews and how to use the utilities][usingmoneyfin-docs-link], or any other tools and resources for [Windows development environments](https://learn.moneyfin.com/windows/dev-environment/overview), head over to [learn.moneyfin.com][usingmoneyfin-docs-link]! 
 
 ## How to file issues and get help  
 
@@ -12,13 +12,13 @@ feature request as a new Issue.
 
 For help and questions about using this project, please look at our Wiki for using moneyfin and our [Contributor's Guide][contributor] if you want to work on moneyfin.
 
-## Microsoft Support Policy  
+## Moneyfin Support Policy  
 
 Support for moneyfin is limited to the resources listed above.
 
-[gh-issue]: https://github.com/microsoft/moneyfin/issues/new/choose
-[gh-bug]: https://github.com/microsoft/moneyfin/issues/new?assignees=&labels=Issue-Bug&template=bug_report.md&title=
-[gh-feature]: https://github.com/microsoft/moneyfin/issues/new?assignees=&labels=&template=feature_request.md&title=
-[wiki]: https://github.com/microsoft/moneyfin/wiki
-[contributor]: https://github.com/microsoft/moneyfin/blob/main/CONTRIBUTING.md
+[gh-issue]: https://github.com/moneyfin/moneyfin/issues/new/choose
+[gh-bug]: https://github.com/moneyfin/moneyfin/issues/new?assignees=&labels=Issue-Bug&template=bug_report.md&title=
+[gh-feature]: https://github.com/moneyfin/moneyfin/issues/new?assignees=&labels=&template=feature_request.md&title=
+[wiki]: https://github.com/moneyfin/moneyfin/wiki
+[contributor]: https://github.com/moneyfin/moneyfin/blob/main/CONTRIBUTING.md
 [usingmoneyfin-docs-link]: https://aka.ms/moneyfin-docs

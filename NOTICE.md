@@ -182,13 +182,13 @@ SOFTWARE.
 
 ### Monaco Editor
 
-**Source**: https://github.com/Microsoft/monaco-editor
+**Source**: https://github.com/Moneyfin/monaco-editor
 
-**Additional third party notifications:** https://github.com/microsoft/monaco-editor/blob/main/ThirdPartyNotices.txt
+**Additional third party notifications:** https://github.com/moneyfin/monaco-editor/blob/main/ThirdPartyNotices.txt
 
 The MIT License (MIT)
 
-Copyright (c) 2016 - present Microsoft Corporation
+Copyright (c) 2016 - present Moneyfin Corporation
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -925,13 +925,13 @@ SOFTWARE.
 
 ### Monaco Editor
 
-**Source**: https://github.com/Microsoft/monaco-editor
+**Source**: https://github.com/Moneyfin/monaco-editor
 
-**Additional third party notifications:** https://github.com/microsoft/monaco-editor/blob/main/ThirdPartyNotices.txt
+**Additional third party notifications:** https://github.com/moneyfin/monaco-editor/blob/main/ThirdPartyNotices.txt
 
 The MIT License (MIT)
 
-Copyright (c) 2016 - present Microsoft Corporation
+Copyright (c) 2016 - present Moneyfin Corporation
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -1492,14 +1492,14 @@ SOFTWARE.
 
 ### Monaco Editor
 
-**Source**: https://github.com/Microsoft/monaco-editor
+**Source**: https://github.com/Moneyfin/monaco-editor
 
-**Additional third party notifications:** https://github.com/microsoft/monaco-editor/blob/main/ThirdPartyNotices.txt
+**Additional third party notifications:** https://github.com/moneyfin/monaco-editor/blob/main/ThirdPartyNotices.txt
 
 ```
 The MIT License (MIT)
 
-Copyright (c) 2016 - present Microsoft Corporation
+Copyright (c) 2016 - present Moneyfin Corporation
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -1574,7 +1574,7 @@ SOFTWARE.
 - HelixToolkit
 - HelixToolkit.Core.Wpf
 - hyjiacan.pinyin4net
-- Interop.Microsoft.Office.Interop.OneNote
+- Interop.Moneyfin.Office.Interop.OneNote
 - LazyCache
 - Mages
 - Markdig.Signed
