@@ -1,10 +1,10 @@
-# PowerToys Contributor's Guide
+# moneyfin Contributor's Guide
 
 Below is our guidance for reporting issues, proposing new features, and submitting contributions via Pull Requests (PRs). Our philosophy is to understand the problem and scenarios first, which is why we follow this pattern before work starts.
 
 1. There is an issue.
 2. There has been a conversation.
-3. There is agreement on the problem, the fit for PowerToys, and the solution to the problem (implementation).
+3. There is agreement on the problem, the fit for moneyfin, and the solution to the problem (implementation).
 
 ## Filing an Issue
 
@@ -33,7 +33,7 @@ To let the team know which issues are important, upvote by clicking the [+😊] 
 
 ## Contributing Fixes/Features
 
-Please comment on our ["Would you like to contribute to PowerToys?"](https://github.com/microsoft/PowerToys/issues/28769) thread to let us know you're interested in working on something before you start. This helps avoid multiple people unexpectedly working on the same thing and ensures everyone is clear on what should be done. It's less work for everyone to establish this up front.
+Please comment on our ["Would you like to contribute to moneyfin?"](https://github.com/microsoft/moneyfin/issues/28769) thread to let us know you're interested in working on something before you start. This helps avoid multiple people unexpectedly working on the same thing and ensures everyone is clear on what should be done. It's less work for everyone to establish this up front.
 
 ### Localization Issues
 
@@ -47,19 +47,19 @@ Once a team member has agreed with your approach, proceed to the "Development" s
 
 ### Help Wanted
 
-Once the team has approved an issue/spec approach, development can proceed. If no developers are immediately available, the spec may be parked and labeled "Help Wanted," ready for a developer to get started. For development opportunities, visit [Issues labeled Help Wanted](https://github.com/microsoft/PowerToys/labels/Help%20Wanted).
+Once the team has approved an issue/spec approach, development can proceed. If no developers are immediately available, the spec may be parked and labeled "Help Wanted," ready for a developer to get started. For development opportunities, visit [Issues labeled Help Wanted](https://github.com/microsoft/moneyfin/labels/Help%20Wanted).
 
 ---
 
 ## Development
 
-Follow the [development guidelines](https://github.com/microsoft/PowerToys/blob/main/doc/devdocs/readme.md).
+Follow the [development guidelines](https://github.com/microsoft/moneyfin/blob/main/doc/devdocs/readme.md).
 
 ### Naming Features and Functionality
 
 Names should be descriptive and straightforward, clearly reflecting functionality and usefulness.
 
-### Becoming a Collaborator on the PowerToys Team
+### Becoming a Collaborator on the moneyfin Team
 
 Be an active community member! Make helpful contributions by filing bugs, offering suggestions, developing fixes and features, conducting code reviews, and updating documentation. 
 
@@ -69,4 +69,4 @@ When the time comes, Microsoft will reach out to you about becoming a formal tea
 
 ## Thank You
 
-Thank you in advance for your contribution! We appreciate your help in making PowerToys a better tool for everyone.
+Thank you in advance for your contribution! We appreciate your help in making moneyfin a better tool for everyone.

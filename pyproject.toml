@@ -3,12 +3,12 @@ requires = ["hatchling>=1.27.0"]
 build-backend = "hatchling.build"
 
 [project]
-name = "yt-dlp"
+name = "moneyfin"
 authors = [
     {name = "pukkandan", email = "pukkandan.ytdlp@gmail.com"},
 ]
 maintainers = [
-    {email = "maintainers@yt-dlp.org"},
+    {email = "maintainers@moneyfin.org"},
     {name = "Grub4K", email = "contact@grub4k.dev"},
     {name = "bashonly", email = "bashonly@protonmail.com"},
     {name = "coletdjnz", email = "coletdjnz@protonmail.com"},
@@ -22,7 +22,7 @@ keywords = [
     "youtube-dl",
     "youtube-downloader",
     "sponsorblock",
-    "yt-dlp",
+    "moneyfin",
 ]
 license = "Unlicense"
 license-files = ["LICENSE"]
@@ -55,7 +55,7 @@ default = [
     "requests>=2.32.2,<3",
     "urllib3>=2.0.2,<3",
     "websockets>=13.0",
-    "yt-dlp-ejs==0.8.0",
+    "moneyfin-ejs==0.8.0",
 ]
 curl-cffi = [
     "curl-cffi>=0.5.10,!=0.6.*,!=0.7.*,!=0.8.*,!=0.9.*,<0.15; implementation_name=='cpython'",
@@ -80,8 +80,8 @@ build = [
 ]
 dev = [
     "pre-commit",
-    "yt-dlp[static-analysis]",
-    "yt-dlp[test]",
+    "moneyfin[static-analysis]",
+    "moneyfin[test]",
 ]
 static-analysis = [
     "autopep8~=2.0",
@@ -96,13 +96,13 @@ pyinstaller = [
 ]
 
 [project.urls]
-Documentation = "https://github.com/yt-dlp/yt-dlp#readme"
-Repository = "https://github.com/yt-dlp/yt-dlp"
-Tracker = "https://github.com/yt-dlp/yt-dlp/issues"
-Funding = "https://github.com/yt-dlp/yt-dlp/blob/master/Maintainers.md#maintainers"
+Documentation = "https://github.com/moneyfin/moneyfin#readme"
+Repository = "https://github.com/moneyfin/moneyfin"
+Tracker = "https://github.com/moneyfin/moneyfin/issues"
+Funding = "https://github.com/moneyfin/moneyfin/blob/master/Maintainers.md#maintainers"
 
 [project.scripts]
-yt-dlp = "yt_dlp:main"
+moneyfin = "yt_dlp:main"
 
 [project.entry-points.pyinstaller40]
 hook-dirs = "yt_dlp.__pyinstaller:get_hook_dirs"
@@ -124,7 +124,7 @@ artifacts = [
     "/completions",
     "/AUTHORS",  # included by default
     "/README.txt",
-    "/yt-dlp.1",
+    "/moneyfin.1",
 ]
 
 [tool.hatch.build.targets.wheel]
@@ -137,11 +137,11 @@ exclude = [
 ]
 
 [tool.hatch.build.targets.wheel.shared-data]
-"completions/bash/yt-dlp" = "share/bash-completion/completions/yt-dlp"
-"completions/zsh/_yt-dlp" = "share/zsh/site-functions/_yt-dlp"
-"completions/fish/yt-dlp.fish" = "share/fish/vendor_completions.d/yt-dlp.fish"
+"completions/bash/moneyfin" = "share/bash-completion/completions/moneyfin"
+"completions/zsh/_moneyfin" = "share/zsh/site-functions/_moneyfin"
+"completions/fish/moneyfin.fish" = "share/fish/vendor_completions.d/moneyfin.fish"
 "README.txt" = "share/doc/yt_dlp/README.txt"
-"yt-dlp.1" = "share/man/man1/yt-dlp.1"
+"moneyfin.1" = "share/man/man1/moneyfin.1"
 
 [tool.hatch.version]
 path = "yt_dlp/version.py"
@@ -155,7 +155,7 @@ installer = "uv"
 
 [tool.hatch.envs.default.scripts]
 setup = "pre-commit install --config .pre-commit-hatch.yaml"
-yt-dlp = "python -Werror -Xdev -m yt_dlp {args}"
+moneyfin = "python -Werror -Xdev -m yt_dlp {args}"
 
 [tool.hatch.envs.hatch-static-analysis]
 detached = true

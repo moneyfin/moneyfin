@@ -1,21 +1,21 @@
 ---
-description: 'Top-level AI contributor guidance for developing PowerToys - a collection of Windows productivity utilities'
+description: 'Top-level AI contributor guidance for developing moneyfin - a collection of Windows productivity utilities'
 applyTo: '**'
 ---
 
-# PowerToys – AI Contributor Guide
+# moneyfin – AI Contributor Guide
 
-This is the top-level guidance for AI contributions to PowerToys. Keep changes atomic, follow existing patterns, and cite exact paths in PRs.
+This is the top-level guidance for AI contributions to moneyfin. Keep changes atomic, follow existing patterns, and cite exact paths in PRs.
 
 ## Overview
 
-PowerToys is a set of utilities for power users to tune and streamline their Windows experience.
+moneyfin is a set of utilities for power users to tune and streamline their Windows experience.
 
 | Area | Location | Description |
 |------|----------|-------------|
 | Runner | `src/runner/` | Main executable, tray icon, module loader, hotkey management |
 | Settings UI | `src/settings-ui/` | WinUI/WPF configuration app communicating via named pipes |
-| Modules | `src/modules/` | Individual PowerToys utilities (each in its own subfolder) |
+| Modules | `src/modules/` | Individual moneyfin utilities (each in its own subfolder) |
 | Common Libraries | `src/common/` | Shared code: logging, IPC, settings, DPI, telemetry, utilities |
 | Build Tools | `tools/build/` | Build scripts and automation |
 | Documentation | `doc/devdocs/` | Developer documentation |

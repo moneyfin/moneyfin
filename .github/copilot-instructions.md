@@ -1,8 +1,8 @@
 ---
-description: 'PowerToys AI contributor guidance'
+description: 'moneyfin AI contributor guidance'
 ---
 
-# PowerToys – Copilot Instructions
+# moneyfin – Copilot Instructions
 
 Concise guidance for AI contributions. For complete details, see [AGENTS.md](../AGENTS.md).
 

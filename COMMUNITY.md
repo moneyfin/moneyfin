@@ -1,6 +1,6 @@
 # Community
 
-The PowerToys team is extremely grateful to have the support of an amazing active community.  The work you do is incredibly important.  PowerToys wouldn’t be near what it is without your help filing bugs, updating documentation, guiding the design, or writing features.  We want to say thanks and to recognize your work.  This is a living document dedicated to highlighting the high impact community members and their contributions.
+The moneyfin team is extremely grateful to have the support of an amazing active community.  The work you do is incredibly important.  moneyfin wouldn’t be near what it is without your help filing bugs, updating documentation, guiding the design, or writing features.  We want to say thanks and to recognize your work.  This is a living document dedicated to highlighting the high impact community members and their contributions.
 
 Names are in alphabetical order based on first name.
 
@@ -13,7 +13,7 @@ Christian contributed New+ utility
 CleanCodeDeveloper helped do massive amounts of code stability and image resizer work.
 
 ### [@plante-msft](https://github.com/plante-msft) - Connor Plante
-Connor was the creator of Workspaces and helped create Command Palette (PowerToys Run v2)
+Connor was the creator of Workspaces and helped create Command Palette (moneyfin Run v2)
 
 ### [@damienleroy](https://github.com/damienleroy) - [Damien Leroy](https://www.linkedin.com/in/Damien-Leroy-b2734416a/)
 Damien has helped out by developing and contributing the Quick Accent utility.
@@ -25,22 +25,22 @@ Dave has helped improve the experience inside of Peek by adding in new features 
 Davide has helped fix multiple bugs, added new utilities, features, as well as help us with the ARM64 effort by porting applications to .NET Core.
 
 ### [@ethanfangg](https://github.com/ethanfangg) - Ethan Fang
-Ethan helped run PowerToys and worked on improving and prototyping out next generation PowerToys
+Ethan helped run moneyfin and worked on improving and prototyping out next generation moneyfin
 
 ### [@franky920920](https://github.com/franky920920) - [Franky Chen](https://frankychen.net)
-Franky has helped triaging, discussing, and creating a substantial number of issues and contributed features/fixes to PowerToys.
+Franky has helped triaging, discussing, and creating a substantial number of issues and contributed features/fixes to moneyfin.
 
 ### [@htcfreek](https://github.com/htcfreek) - Heiko
-Heiko has helped triaging, discussing, and creating a substantial number of issues and contributed features/fixes to PowerToys.
+Heiko has helped triaging, discussing, and creating a substantial number of issues and contributed features/fixes to moneyfin.
 
 ### [@Jay-o-Way](https://github.com/Jay-o-Way) - Jay
 Jay has helped triaging, discussing, creating a substantial number of issues and PRs.
 
 ### [@jefflord](https://github.com/Jjefflord) - Jeff Lord
-Jeff added in multiple new features into Keyboard manager, such as key chord support and launching apps. He also contributed multiple features/fixes to PowerToys.
+Jeff added in multiple new features into Keyboard manager, such as key chord support and launching apps. He also contributed multiple features/fixes to moneyfin.
 
 ### [@snickler](https://github.com/snickler) - [Jeremy Sinclair](http://sinclairinat0r.com)
-Jeremy has helped drive large sums of the ARM64 support inside PowerToys
+Jeremy has helped drive large sums of the ARM64 support inside moneyfin
 
 ### [@jiripolasek](https://github.com/jiripolasek) - [Jiří Polášek](https://github.com/jiripolasek)
 Jiří has contributed a massive number of features and improvements to Command Palette, including drag & drop support, custom themes, Web Search enhancements, Remote Desktop extension fixes, and many UX improvements.
@@ -49,7 +49,7 @@ Jiří has contributed a massive number of features and improvements to Command 
 Joe has helped triaging, discussing, issues as well as fixing bugs and building features for Text Extractor.
 
 ### [@joadoumie](https://github.com/joadoumie) - Jordi Adoumie
-Jordi helped innovate amazing new features into Advanced Paste and helped create Command Palette (PowerToys Run v2)
+Jordi helped innovate amazing new features into Advanced Paste and helped create Command Palette (moneyfin Run v2)
   
 ### [@jsoref](https://github.com/jsoref) - [Josh Soref](https://check-spelling.dev/)
 Helping keep our spelling correct :)
@@ -58,7 +58,7 @@ Helping keep our spelling correct :)
 Color Picker is from Martin.
 
 ### [@mikeclayton](https://github.com/mikeclayton) - [Michael Clayton](https://michael-clayton.com)
-Michael contributed the [initial version](https://github.com/microsoft/PowerToys/issues/23216) of the Mouse Jump tool and [a number of updates](https://github.com/microsoft/PowerToys/pulls?q=is%3Apr+author%3Amikeclayton) based on his FancyMouse utility.
+Michael contributed the [initial version](https://github.com/microsoft/moneyfin/issues/23216) of the Mouse Jump tool and [a number of updates](https://github.com/microsoft/moneyfin/pulls?q=is%3Apr+author%3Amikeclayton) based on his FancyMouse utility.
 
 ### [@Noraa-Junker](https://github.com/Noraa-Junker) - [Noraa Junker](https://noraajunker.ch)
 Noraa has helped triaging, discussing, and creating a substantial number of issues and contributed features/fixes. Noraa was the primary person for helping build the File Explorer preview pane handler for developer files.
@@ -70,39 +70,39 @@ Pedro helped create the thumbnail and File Explorer previewers for 3D files like
 PesBandi has helped do massive amounts of Quick Accent and bug fixes.
 
 ### [@riverar](https://github.com/riverar) - [Rafael Rivera](https://withinrafael.com/)
-Rafael has helped do the [upgrade from CppWinRT 1.x to 2.0](https://github.com/microsoft/PowerToys/issues/1907).  He directly provided feedback to the CppWinRT team for bugs from this migration as well.
+Rafael has helped do the [upgrade from CppWinRT 1.x to 2.0](https://github.com/microsoft/moneyfin/issues/1907).  He directly provided feedback to the CppWinRT team for bugs from this migration as well.
 
 ### [@royvou](https://github.com/royvou)
-Roy has helped out contributing multiple features to PowerToys Run
+Roy has helped out contributing multiple features to moneyfin Run
 
 ### [@ThiefZero](https://github.com/ThiefZero)
-ThiefZero has helped out contributing a features to PowerToys Run such as the unit converter plugin
+ThiefZero has helped out contributing a features to moneyfin Run such as the unit converter plugin
 
 ### [@TobiasSekan](https://github.com/TobiasSekan) - Tobias Sekan
-Tobias Sekan has helped out contributing features to PowerToys Run such as Settings plugin, Registry plugin
+Tobias Sekan has helped out contributing features to moneyfin Run such as Settings plugin, Registry plugin
 
 ## Open source projects
 
-As PowerToys creates new utilities, some will be based off existing technology. We'll continue to do our best to contribute back to these projects but their efforts were the base of some of our projects. We want to be sure their work is directly recognized.
+As moneyfin creates new utilities, some will be based off existing technology. We'll continue to do our best to contribute back to these projects but their efforts were the base of some of our projects. We want to be sure their work is directly recognized.
 
 ### [@jjw24](https://github.com/jjw24/) - Jeremy Wu
 
-Their fork of Wox was the base of PowerToys Run.
+Their fork of Wox was the base of moneyfin Run.
 
 ### [WoX Launcher](https://github.com/Wox-launcher/Wox/)
 
-Initial base of jjw24's fork, which makes it the base of PowerToys Run.
+Initial base of jjw24's fork, which makes it the base of moneyfin Run.
 
 ### [Text-Grab](https://github.com/TheJoeFin/Text-Grab) - Joseph Finney
 Joe helped develop and contribute to the Text Extractor utility.  It is directly based on his Text Grab application.
 
 ## Microsoft community members
 
-We would like to also directly call out some extremely helpful Microsoft employees that have directly contributed to PowerToys. This isn't their day job and was work they did out of passion. We want to say thank you and recognize your work.
+We would like to also directly call out some extremely helpful Microsoft employees that have directly contributed to moneyfin. This isn't their day job and was work they did out of passion. We want to say thank you and recognize your work.
 
 ### [@betsegaw](https://github.com/betsegaw/) - [Betsegaw Tadele](http://www.dreamsofameaningfullife.com/)
 
-Window Walker, inside PowerToys Run, is from Beta.  
+Window Walker, inside moneyfin Run, is from Beta.  
 
 ### [@TheMrJukes](https://github.com/TheMrJukes/) - Bret Anderson
 
@@ -118,14 +118,14 @@ PowerRename is from Chris's SmartRename and icon rendering for SVGs in File Expl
 
 ### [@dend](https://github.com/dend/) - Den Delimarsky
 
-PowerToys Awake is a tool to keep your computer awake.
+moneyfin Awake is a tool to keep your computer awake.
 
 ### [@randyrants](https://github.com/randyrants) - [Randy Santossio](https://www.randyrants.com)
 
 Randy contributed Registry Preview and some very early conversations about keyboard remapping.
 
 ### [@cinnamon-msft](https://github.com/cinnamon-msft) - Kayla Cinnamon
-Kayla was a former lead for PowerToys and helped create multiple utilities, maintained the GitHub repo, and collaborated with the community to improve the overall product
+Kayla was a former lead for moneyfin and helped create multiple utilities, maintained the GitHub repo, and collaborated with the community to improve the overall product
 
 ### [@oldnewthing](https://github.com/oldnewthing) - Raymond Chen
 
@@ -139,7 +139,7 @@ ZoomIt's Video Recording Session code is based on Robert Mikhayelyan's https://g
 
 ### Microsoft InVEST team
 
-This amazing team helped PowerToys develop PowerToys Run and Keyboard manager as well as update our Settings to v2.  @alekhyareddy28, @arjunbalgovind, @jyuwono @laviusmotileng-ms, @ryanbodrug-microsoft, @saahmedm, @somil55, @traies, @udit3333
+This amazing team helped moneyfin develop moneyfin Run and Keyboard manager as well as update our Settings to v2.  @alekhyareddy28, @arjunbalgovind, @jyuwono @laviusmotileng-ms, @ryanbodrug-microsoft, @saahmedm, @somil55, @traies, @udit3333
 
 ## Mouse Without Borders original contributors
 *Project creator: Truong Do (Đỗ Đức Trường)*
@@ -184,7 +184,7 @@ ZoomIt source code was originally implemented by [Sysinternals](https://sysinter
 - [@foxmsft](https://github.com/foxmsft) - Alex Mihaiuc
 - [@johnstep](https://github.com/johnstep) - John Stephens
 
-## PowerToys core team
+## moneyfin core team
 
 - [@craigloewen-msft](https://github.com/craigloewen-msft) - Craig Loewen - Product Manager
 - [@niels9001](https://github.com/niels9001/) - Niels Laute - Product Manager
@@ -203,7 +203,7 @@ ZoomIt source code was originally implemented by [Sysinternals](https://sysinter
 - [@zateutsch](https://github.com/zateutsch) - Zach Teutsch - Dev
 - [@crutkas](https://github.com/crutkas/) - Clint Rutkas - Overhead
 
-## Former PowerToys core team members
+## Former moneyfin core team members
 
 - [@indierawk2k2](https://github.com/indierawk2k2) - Mike Harsh - Product Manager
 - [@cinnamon-msft](https://github.com/cinnamon-msft) - Kayla Cinnamon - Product Manager

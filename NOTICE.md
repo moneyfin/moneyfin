@@ -6,7 +6,7 @@ This software incorporates material from third parties.
 - Command Palette
 - File Explorer Add-ins
 - ImageResizer
-- PowerToys Run
+- moneyfin Run
 - Installer/Runner
 - Measure tool
 - Peek
@@ -144,7 +144,7 @@ TORT OR  OTHERWISE, ARISING  FROM, OUT  OF OR  IN CONNECTION  WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ```
 
-## Utility: PowerToys Run Built-in Extensions
+## Utility: moneyfin Run Built-in Extensions
 
 ### Calculator
 
@@ -212,7 +212,7 @@ SOFTWARE.
 
 **Source**: https://github.com/phoboslab/qoi
 
-**Note**: [@pedrolamas](https://github.com/pedrolamas) translated and adapted the reference decoder code to C# that is in PowerToys from the original C++ implementation.
+**Note**: [@pedrolamas](https://github.com/pedrolamas) translated and adapted the reference decoder code to C# that is in moneyfin from the original C++ implementation.
 
 MIT License
 
@@ -742,7 +742,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
-## Utility: PowerToys Run
+## Utility: moneyfin Run
 
 ### Wox License
 
@@ -955,7 +955,7 @@ SOFTWARE.
 
 **Source**: https://github.com/phoboslab/qoi
 
-**Note**: [@pedrolamas](https://github.com/pedrolamas) translated and adapted the reference decoder code to C# that is in PowerToys from the original C++ implementation.
+**Note**: [@pedrolamas](https://github.com/pedrolamas) translated and adapted the reference decoder code to C# that is in moneyfin from the original C++ implementation.
 
 MIT License
 
@@ -1550,7 +1550,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-## NuGet Packages used by PowerToys
+## NuGet Packages used by moneyfin
 
 - AdaptiveCards.ObjectModel.WinUI3
 - AdaptiveCards.Rendering.WinUI3
