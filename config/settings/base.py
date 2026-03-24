@@ -31,13 +31,17 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    # Django Default
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'apps.account.apps.AccountConfig',
+    # DRF Default
+    'rest_framework',
+    # Custom Apps
+    'apps.user.apps.UserConfig',
     'apps.core.apps.CoreConfig',
 ]
 
